@@ -1,0 +1,9 @@
+{
+  "name": "AXP Agent Timed ACW Client Side Only",
+  "description": "AXP Agent Timed After Call Work - Client Side only",
+  "tags": ["agent", "acw", "client side"],
+  "version": "0.0.1",
+  "element": "<axpagent-acw-clientside></axpagent-acw-clientside>",
+  "icon": "neo-icon-crm",
+  "files": ["axpagentacwclientside.js"]
+}
